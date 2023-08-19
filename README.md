@@ -1,4 +1,4 @@
-"C:\Users\navan\Downloads\programming.gif"
+https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif
 
 Welcome to My GitHub Profile!
 Hello there! I'm thrilled to have you visiting my GitHub profile. I'm Nawnetha, and I'm on an exciting journey as an aspiring software developer deeply passionate about the world of AI and technology
