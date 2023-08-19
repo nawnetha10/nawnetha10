@@ -1,4 +1,5 @@
-                        ![image](https://github.com/nawnetha10/nawnetha10/assets/130150973/f4fa9900-f809-4361-9c9a-5bca7f6414fd)
+                        ![image](https://github.com/nawnetha10/nawnetha10/assets/130150973/0dae76cc-297b-4c29-a68b-f7c0810512e0)
+
 
 Welcome to My GitHub Profile!
 Hello there! I'm thrilled to have you visiting my GitHub profile. I'm Nawnetha, and I'm on an exciting journey as an aspiring software developer deeply passionate about the world of AI and technology.
